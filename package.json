@@ -1,0 +1,22 @@
+{
+  "name": "movie-demo-api",
+  "version": "1.0.0",
+  "description": "API for Video Commerce Demo Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabdhsan/movie-demo-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tabdhsan/movie-demo-api/issues"
+  },
+  "homepage": "https://github.com/Tabdhsan/movie-demo-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
